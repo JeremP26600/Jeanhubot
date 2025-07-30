@@ -1,0 +1,18 @@
+{
+  "module": "1",
+  "title": "Introduction à ChatGPT",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qu'est-ce que ChatGPT ?",
+      "options": {
+        "A": "Un moteur de recherche",
+        "B": "Un robot aspirateur connecté",
+        "C": "Un modèle de langage développé par OpenAI",
+        "D": "Une base de données en ligne"
+      },
+      "answer": "C",
+      "explanation": "ChatGPT est un modèle de langage développé par OpenAI capable de générer du texte, répondre à des questions, etc."
+    }
+  ]
+}
